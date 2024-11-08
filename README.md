@@ -1,1 +1,1 @@
-This repository contains an assortment of various quality-of-life scripts I have written, which are mostly used on my various homelab devices. 
+This repository contains an assortment of various quality-of-life scripts for the Linux devices in my homelab/networking setup. 
